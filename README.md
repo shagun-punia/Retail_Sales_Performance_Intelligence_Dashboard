@@ -1,86 +1,73 @@
-This project is a Retail Sales Analytics and Business Intelligence Dashboard developed using Python Pandas, Streamlit, and Plotly.
-The system analyzes retail sales data and provides insights related to sales performance, profitability, loss-making products, and business trends.
+# 📊 Retail Sales & Profit Optimization Intelligence System
 
-The project helps retail managers and decision-makers monitor business performance through an interactive dashboard.
+## 🚀 Project Overview
+This project is a Retail Sales Analytics Dashboard developed using Python Pandas, Streamlit, and Plotly.
 
-🚀 Features
+The dashboard helps analyze:
+- Sales Performance
+- Profitability
+- Loss-Making Products
+- Monthly Sales Trends
+- Smart Business Recommendations
 
-✅ Data Cleaning
-✅ Missing Value Handling
-✅ Feature Engineering
-✅ KPI Analysis
-✅ Regional Sales Analysis
-✅ Category Profitability Analysis
-✅ Monthly Sales Trend
-✅ Top Product Analysis
-✅ Loss Detection
-✅ Profit Leakage Detection
-✅ Smart Recommendation Engine
-✅ Interactive Streamlit Dashboard
+---
 
-📂 Dataset Information
+## 📂 Dataset
+- 100000 Retail Sales Records
+- Multi-category retail business dataset
 
-The dataset contains 100000 retail transaction records including:
+### Columns Used:
+- Order_ID
+- Region
+- Product_Name
+- Category
+- Quantity
+- Cost_Price
+- Selling_Price
+- Profit
+- Profit %
 
-Order_ID
-Order_Date
-Region
-State
-City
-Product_Name
-Category
-Quantity
-Cost_Price
-Selling_Price
-Salesperson_Name
-Profit
-Profit %
-🧠 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Streamlit
-Plotly
-Jupyter Notebook
-📊 Dashboard Insights
+---
 
-The dashboard provides:
+## 🔥 Features
+✅ Data Cleaning  
+✅ KPI Analysis  
+✅ Interactive Dashboard  
+✅ Profit Leakage Detection  
+✅ Loss Analysis  
+✅ Recommendation Engine  
+✅ Business Insights  
 
-Region-wise Sales Performance
-Category Profitability Analysis
-Monthly Sales Trends
-Top Selling Products
-Low Profit Orders
-Loss Analysis
-Smart Business Recommendations
-⚙️ Advanced Analytics
+---
 
-The system identifies:
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+- Plotly
+- Jupyter Notebook
 
-Low-profit transactions
-Loss-making products
-Weak profit margins
-Business optimization opportunities
+---
 
-It also generates automated recommendations such as:
+## 📊 Dashboard Insights
+- Region-wise Sales Analysis
+- Monthly Sales Trends
+- Category Profitability
+- Top Products Analysis
+- Smart Recommendations
 
-Increase Price
-Optimize Cost
-Review Product
-Promote Product
-🎯 Target Audience
+---
 
-This project is designed for:
+## 🎯 Target Audience
+- Retail Managers
+- Sales Managers
+- Business Analysts
+- Decision Makers
 
-Retail Managers
-Sales Managers
-Business Analysts
-Decision Makers
-🌐 Dashboard Development
+---
 
-The interactive dashboard was developed using Streamlit and Plotly for real-time visualization and filtering.
-
-📌 Conclusion
-
-This project transforms raw retail sales data into actionable business intelligence to support better business decisions and performance optimization.
+## 👩‍💻 Developed By
+Shagun Punia  
+MCA | MIET
